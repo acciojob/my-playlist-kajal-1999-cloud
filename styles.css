@@ -17,10 +17,21 @@ body{
 .player-two {
 	text-align:center;
 	background-color:white;
+	width: 64%;
+     margin: 0px 100px
 }
 .player-three {
+    gap:0px;
+	text-align:end;
 	text-align:center;
 	background-color:white;
-	margin:0px;
+	margin-top:0px;
 }
-.
+
+.player-three p{
+	text-align:start;
+	color:#cccccc
+}
+.player-three audio{
+	width:100%;
+}
