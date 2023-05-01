@@ -2,7 +2,10 @@
 body{
 	background-color: #cccccc;
 }
-.player-one h3{
+.player-one{
+	background-color:white;
+}
+ h3{
 	text-align:center;
 }
 
@@ -10,5 +13,14 @@ body{
 	text-decoration: none;
 	color: #cccccc;
 	background-color:white;
-	
 }
+.player-two {
+	text-align:center;
+	background-color:white;
+}
+.player-three {
+	text-align:center;
+	background-color:white;
+	margin:0px;
+}
+.
